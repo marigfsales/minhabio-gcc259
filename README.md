@@ -18,5 +18,8 @@
 ## 🧠 **Habilidades**
 - Linguagens: C++, Python, JavaScript, Java  
 - Frameworks: React, Flask  
-- Ferramentas: Git, GitHub, VSCode, Jira  
+- Ferramentas: Git, GitHub, VSCode, Jira
 
+---
+
+![Imagem](imagem.png)
